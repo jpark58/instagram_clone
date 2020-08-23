@@ -5,7 +5,7 @@ A user will be able to sign-up, login and sign-out and in REALTIME, the user is 
 
 ## Output
 
-[link]: https://instagram-clone-react-37844.web.app/
+https://instagram-clone-react-37844.web.app/
 
 <img src="https://user-images.githubusercontent.com/48766032/90980419-2e212280-e596-11ea-8ce1-47e53eb21361.png" width=600px>
 
