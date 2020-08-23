@@ -1,7 +1,8 @@
 # Instagram Clone with React and Firebase
 
 Build a Instagram Clone Web App with REACT, Firebase, and Material UI.  
-A user will be able to sign-up, login and sign-out and in REALTIME, the user is able to upload posts and leave comments.
+In REALTIME, A user will be able to sign-up, login and sign-out and  
+the user is able to upload posts and leave comments.
 
 ## Output
 
